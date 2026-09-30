@@ -6,6 +6,7 @@ I build, fix and speed up WordPress sites for small businesses and the agencies 
 
 - Custom themes with Kadence Blocks, plus Elementor, Divi and Avada
 - WooCommerce stores, site speed optimization and ongoing maintenance
+- Now also building fast static sites with Astro, with AI-assisted development
 - Earlier work in Laravel, Vue.js and SQL
 
 Most of my client work lives in private repositories.
