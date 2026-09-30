@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Desfer
 
-<!--
-**desferj-dev/desferj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web developer · WordPress · Remote from the Philippines**
 
-Here are some ideas to get you started:
+I build, fix and speed up WordPress sites for small businesses and the agencies that look after them. I have 7+ years of experience, 5+ of them in WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Custom themes with Kadence Blocks, plus Elementor, Divi and Avada
+- WooCommerce stores, site speed optimization and ongoing maintenance
+- Earlier work in Laravel, Vue.js and SQL
+
+Most of my client work lives in private repositories.
+
+**Portfolio:** [desferj.dev](https://desferj.dev/) · **Résumé:** [PDF](https://desferj.dev/Desfer-Enriquez-Resume.pdf) · **Email:** [desferj.dev@gmail.com](mailto:desferj.dev@gmail.com)
